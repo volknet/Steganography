@@ -3,6 +3,9 @@
 import cv
 import sys
 
+#here is a simple test
+
+
 class SteganographyException(Exception):
     pass
 
